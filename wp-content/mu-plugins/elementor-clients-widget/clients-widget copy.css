@@ -1,0 +1,14 @@
+.clients-grid {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 20px;
+}
+.client-item {
+    flex: 1 0 30%;
+    text-align: center;
+}
+.client-item img {
+    width: 100%;
+    border-radius: 50%;
+}
